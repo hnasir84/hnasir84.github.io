@@ -8,3 +8,32 @@ h1{
     color: blue;
 }
 
+.red{
+    color: red
+}
+
+
+#purple{
+    color: purple
+}
+
+
+.alignLeft{
+    text-align: left;
+}
+
+.alighlCenter{
+    text-align: Center;
+}
+
+.alignRight{
+    text-align: right;
+}
+
+.white{
+    color: white;
+}
+
+.blackBackground{
+    background-color: black;
+}
