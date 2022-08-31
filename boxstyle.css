@@ -36,3 +36,28 @@ body{
     /* color a box yellow */
     background: yellow;
 }
+
+/* use @media handle to implement a media query */
+
+@media ( max-width: 600px)
+{
+    /* to modify greenbox*/
+    .greenbox{
+        background: navy;
+    }
+
+    /* modify the redbox  to display circle */
+    .redbox{
+    border-radius: 50%;
+    border: dold 2px black;
+}
+
+/* make the bluebox something  fun */
+
+.bluebox{
+    transform: rotate(360deg);
+    transition: transform 3.0s ease-in;
+}
+}
+
+
