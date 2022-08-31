@@ -1,0 +1,38 @@
+/* CSS used to style boxes in the media query demo page */
+body{
+    background: lightgray
+
+
+}
+
+/* specify dimensions for all boxes in the page */
+.box{
+    width: 200px;
+    height: 200px;
+}
+
+.greenbox{
+    /* colors a box green */
+    background: green 
+}
+
+.redbox{
+    /* color a box red */
+    background: red;
+}
+
+.bluebox{
+    /* color a box blue*/
+    background: blue;
+}
+
+
+.violetbox{
+    /* color a box violet */
+    background: violet;
+}
+
+.yellowbox{
+    /* color a box yellow */
+    background: yellow;
+}
