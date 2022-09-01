@@ -56,7 +56,12 @@ body{
 
 .bluebox{
     transform: rotate(360deg);
-    transition: transform 3.0s ease-in;
+    transition: transform 1.0s ease-in;
+}
+
+/* make the violetbox disappear */
+.violetbox{
+    display: none;
 }
 }
 
